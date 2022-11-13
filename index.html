@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio Objetos e Módulos</title>
+    <link rel="stylesheet" href="./css/index.css">
+</head>
+<body>
+    <header class="container">
+        <h1>Calcular pedido</h1>
+    </header>
+    
+    <main class="container">
+        <section>
+            <form class="form" id="formOrder" name="formOrder" action="">
+                <div class="form-container">
+                    <div class="form-card">
+                        <label class="form-label" for="formNumber">Pedido nº :</label>
+                        <input type="text" name="order-number" id="order-number">
+                    </div>
+
+                    <div class="form-card">
+                        <label class="form-label" for="orderPrice">Valor:</label>
+                        <input type="text" name="order-price" id="order-price">
+                    </div>
+                    <div class="form-card">
+                        <label for="orderDiscount">Desconto:</label>
+                        <select name="order-discount" id="order-discount">
+                            <option value="0"></option>
+                            <option value="10">10%</option>
+                            <option value="15">15%</option>
+                            <option value="20">20%</option>
+                            <option value="30">30%</option>
+                            <option value="40">40%</option>
+                            <option value="50">50%</option>
+                            <option value="60">60%</option>
+                        </select>
+                    </div>
+                    <div class="btns-container">
+                        <div class="btn-calcular">
+                            <input type="submit" id="send" value="Calcular" placeholder="pedido">
+                        </div>
+                        <div class="limpar">
+                            <input type="reset" id="clear" value="Limpar">
+                        </div>
+                        
+                    </div>
+                </div>
+                <div class="result">
+
+                </div>
+            </form>
+        </section>
+    </main>
+
+<script type= "module" src="./js/main.js"></script>
+</body>
+</html>
