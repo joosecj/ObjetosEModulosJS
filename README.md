@@ -1,4 +1,4 @@
-<h1 align="center">DSViaCep</h1>
+<h1 align="center">Objetos e Módulos JS</h1>
 
 <p align='center'> 
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
