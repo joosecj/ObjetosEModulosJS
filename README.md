@@ -7,7 +7,7 @@
 </p>
 
 Projeto desenvolvido foi proposto pela [DevSuperior](https://devsuperior.com.br/) teve o objetivo de criar um site para calcular o valor total do pedido considerando a porcentagem de desconto.
-Com isso foi possível praticar e compreender melhor a semantica do html, juntamente com a estilização com CSS e os conceitos de objeetos e módulos com javascript. 
+Com isso foi possível praticar e compreender melhor a semântica do html, juntamente com a estilização com CSS e os conceitos de objetos e módulos com javascript. 
 ##
 Projeto implementado na nuvem, com deploy no vercel, veja [aqui](https://joosecj.github.io/ObjetosEModulosJS/).
 
@@ -19,7 +19,7 @@ Experimente live demo:
 
 ## Como criar e executar o Objetos e Módulos JS localmente
 
-Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git instalados e siga as instruções abaixo. Precisa de informações adicionais? entre em contato com os autores. 
+Criar e executar o projeto em seu ambiente de desenvolvimento local é muito fácil. Certifique-se de ter o Git instalados e siga as instruções abaixo. Precisa de informações adicionais? entre em contato com os autores.
 (Estas instruções pressupõem que você esteja instalando como usuário com permissões root/administrador.)
 
 ### Frontend
